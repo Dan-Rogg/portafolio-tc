@@ -4,3 +4,27 @@
     justify-content: start;
     align-items: center;
 }
+
+.proyecto {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#proyecto-1 {
+    background-image: url('https://www.publico.es/yo-animal/wp-content/uploads/2024/05/erizo-4-1024x683.jpg');
+  
+}
+
+#proyecto-2 {
+    background-image: url('/Portafolio/assets/clondegooglejpg.jpg');
+  
+}
+#proyecto-3 {
+    background-image: url('https://t1.uc.ltmcdn.com/es/posts/2/0/3/9_habitos_para_ser_mas_creativo_41302_orig.jpg');
+  
+}
+
+.text-shadow-1 {
+    text-shadow: -2 .0px 6px rgba(0, 0, 0, .2); }
+
