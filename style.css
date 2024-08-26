@@ -3,6 +3,12 @@
     display: flex;
     justify-content: start;
     align-items: center;
+
+    background-image: url(assets/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+
 }
 
 .proyecto {
